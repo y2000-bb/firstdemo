@@ -7,5 +7,6 @@ public class TestDao {
         System.out.println("devwrite");
         System.out.println("devoooo");
         System.out.println("devvv");
+        System.out.println("master");
     }
 }
